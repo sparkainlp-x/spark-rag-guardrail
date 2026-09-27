@@ -9,6 +9,14 @@ authors:
 repository-code: "https://github.com/sparkainlp-x/spark-rag-guardrail"
 url: "https://sparkainlpx.xyz"
 license: MIT
+doi: "10.5281/zenodo.22999268"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22999268"
+    description: "Concept DOI (all versions, Zenodo)"
+  - type: doi
+    value: "10.5281/zenodo.22999269"
+    description: "Version DOI for v0.1.0 (Zenodo)"
 version: "0.1.0"
 date-released: "2026-09-27"
 abstract: >-
