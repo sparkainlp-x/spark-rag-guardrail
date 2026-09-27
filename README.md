@@ -1,5 +1,9 @@
 # spark-rag-guardrail
 
+[![CI](https://github.com/sparkainlp-x/spark-rag-guardrail/actions/workflows/ci.yml/badge.svg)](https://github.com/sparkainlp-x/spark-rag-guardrail/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Status: research prototype](https://img.shields.io/badge/status-research%20prototype-orange.svg)](#evidence-status-unrun)
+
 Source-grounded retrieval-augmented generation (RAG) with a **retrieval-relevance
 guardrail**: if nothing in the knowledge base is relevant enough, the LLM is never
 called and the system says so instead of guessing.
@@ -76,6 +80,10 @@ plumbing (cosine scoring, threshold filtering, guardrail short-circuit, prompt a
 format), not answer quality. **No accuracy or hallucination-reduction numbers are claimed
 or have been measured.** Any such evaluation is UNRUN.
 
+## Citation
+
+See [CITATION.cff](CITATION.cff). Changes are listed in [CHANGELOG.md](CHANGELOG.md).
+
 ## License
 
-MIT, see [LICENSE](LICENSE).
+MIT, see [LICENSE](LICENSE). Author: Jean-François Brisson / Spark AI NLP, https://sparkainlpx.xyz
