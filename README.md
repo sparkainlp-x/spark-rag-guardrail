@@ -3,6 +3,7 @@
 [![CI](https://github.com/sparkainlp-x/spark-rag-guardrail/actions/workflows/ci.yml/badge.svg)](https://github.com/sparkainlp-x/spark-rag-guardrail/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status: research prototype](https://img.shields.io/badge/status-research%20prototype-orange.svg)](#evidence-status-unrun)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22999268.svg)](https://doi.org/10.5281/zenodo.22999268)
 
 Source-grounded retrieval-augmented generation (RAG) with a **retrieval-relevance
 guardrail**: if nothing in the knowledge base is relevant enough, the LLM is never
@@ -82,7 +83,7 @@ or have been measured.** Any such evaluation is UNRUN.
 
 ## Citation
 
-See [CITATION.cff](CITATION.cff). Changes are listed in [CHANGELOG.md](CHANGELOG.md).
+See [CITATION.cff](CITATION.cff). Archived on Zenodo: concept DOI [10.5281/zenodo.22999268](https://doi.org/10.5281/zenodo.22999268) (all versions); v0.1.0: [10.5281/zenodo.22999269](https://doi.org/10.5281/zenodo.22999269). Changes are listed in [CHANGELOG.md](CHANGELOG.md).
 
 ## License
 
