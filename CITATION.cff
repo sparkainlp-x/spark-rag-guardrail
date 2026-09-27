@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below. Tests use SYNTHETIC fixtures; answer quality is UNRUN (not claimed)."
+title: "spark-rag-guardrail: source-grounded RAG with a retrieval-relevance guardrail"
+type: software
+authors:
+  - family-names: "Brisson"
+    given-names: "Jean-François"
+    affiliation: "Spark AI NLP"
+repository-code: "https://github.com/sparkainlp-x/spark-rag-guardrail"
+url: "https://sparkainlpx.xyz"
+license: MIT
+version: "0.1.0"
+date-released: "2026-09-27"
+abstract: >-
+  Source-grounded retrieval-augmented generation (ChromaDB + optional
+  sentence-transformers + local Ollama) with a retrieval-relevance guardrail:
+  when no retrieved chunk meets the similarity threshold, the LLM is not called
+  and an explicit refusal is returned. Research prototype; tests use SYNTHETIC
+  fixtures; answer quality and hallucination reduction are UNRUN.
+keywords:
+  - rag
+  - guardrail
+  - chromadb
+  - ollama
+  - research-software
