@@ -1,7 +1,7 @@
 # spark-rag-guardrail
 
 [![CI](https://github.com/sparkainlp-x/spark-rag-guardrail/actions/workflows/ci.yml/badge.svg)](https://github.com/sparkainlp-x/spark-rag-guardrail/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Status: research prototype](https://img.shields.io/badge/status-research%20prototype-orange.svg)](#evidence-status-unrun)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22999268.svg)](https://doi.org/10.5281/zenodo.22999268)
 
@@ -87,4 +87,10 @@ See [CITATION.cff](CITATION.cff). Archived on Zenodo: concept DOI [10.5281/zenod
 
 ## License
 
-MIT, see [LICENSE](LICENSE). Author: Jean-François Brisson / Spark AI NLP, https://sparkainlpx.xyz
+This software is available under the GNU Affero General Public License v3.0 only (AGPL-3.0-only); see [LICENSE](LICENSE).
+
+Organizations that want to use it in proprietary products or services without AGPL obligations can contact the author about a commercial license via https://sparkainlpx.xyz.
+
+Versions published before 2026-09-29 were released under the MIT License and remain available under those terms.
+
+Author: Jean-François Brisson / Spark AI NLP, https://sparkainlpx.xyz

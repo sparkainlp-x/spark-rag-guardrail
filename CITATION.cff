@@ -8,7 +8,7 @@ authors:
     affiliation: "Spark AI NLP"
 repository-code: "https://github.com/sparkainlp-x/spark-rag-guardrail"
 url: "https://sparkainlpx.xyz"
-license: MIT
+license: AGPL-3.0-only
 doi: "10.5281/zenodo.22999268"
 identifiers:
   - type: doi

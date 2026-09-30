@@ -7,7 +7,7 @@ name = "spark-rag-guardrail"
 version = "0.1.0"
 description = "Source-grounded RAG answering (ChromaDB + Ollama) with a retrieval-relevance guardrail."
 readme = "README.md"
-license = { text = "MIT" }
+license = { text = "AGPL-3.0-only" }
 authors = [{ name = "Jean-François Brisson" }]
 requires-python = ">=3.11"
 dependencies = [

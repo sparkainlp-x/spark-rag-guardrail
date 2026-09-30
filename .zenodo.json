@@ -9,7 +9,7 @@
     }
   ],
   "access_right": "open",
-  "license": "MIT",
+  "license": "AGPL-3.0-only",
   "keywords": [
     "retrieval-augmented generation",
     "RAG",
