@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "spark-rag-guardrail"
-version = "0.1.0"
+version = "0.1.1"
 description = "Source-grounded RAG answering (ChromaDB + Ollama) with a retrieval-relevance guardrail."
 readme = "README.md"
 license = { text = "AGPL-3.0-only" }

@@ -1,6 +1,8 @@
 {
   "upload_type": "software",
   "title": "spark-rag-guardrail: source-grounded RAG with a retrieval-relevance guardrail",
+  "version": "0.1.1",
+  "publication_date": "2026-10-08",
   "description": "<p>Small Python library for source-grounded retrieval-augmented generation (ChromaDB vector store, optional sentence-transformers embeddings, local Ollama generation). A retrieval-relevance guardrail drops chunks whose cosine similarity is below a threshold (default 0.40). If no chunk survives, the LLM is never called and the function returns an explicit refusal instead of guessing. Surviving chunks are passed with a citation-required, sources-only instruction.</p><p><strong>Evidence tags.</strong> Unit tests use SYNTHETIC fixture documents and a deterministic hashed bag-of-words embedder; they verify plumbing (cosine scoring, threshold filtering, guardrail short-circuit, prompt and citation format), not answer quality. Answer accuracy and hallucination reduction: <strong>UNRUN</strong> (no numbers claimed).</p><p><strong>Scope and limits.</strong> Research prototype. Not a certified safety system and not a production service. No production-readiness claim is made.</p><p>Evidence tags follow <a href=\"https://github.com/sparkainlp-x/.github#evidence-tags\">sparkainlp-x/.github</a> (SYNTHETIC / REPORTED / TARGET / UNRUN).</p>",
   "creators": [
     {
