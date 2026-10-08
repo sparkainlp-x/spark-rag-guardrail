@@ -83,7 +83,7 @@ or have been measured.** Any such evaluation is UNRUN.
 
 ## Citation
 
-See [CITATION.cff](CITATION.cff). Archived on Zenodo: concept DOI [10.5281/zenodo.22999268](https://doi.org/10.5281/zenodo.22999268) (all versions); v0.1.0: [10.5281/zenodo.22999269](https://doi.org/10.5281/zenodo.22999269). Changes are listed in [CHANGELOG.md](CHANGELOG.md).
+See [CITATION.cff](CITATION.cff). Archived on Zenodo: concept DOI [10.5281/zenodo.22999268](https://doi.org/10.5281/zenodo.22999268) (all versions); v0.1.1: [10.5281/zenodo.23241620](https://doi.org/10.5281/zenodo.23241620); v0.1.0: [10.5281/zenodo.22999269](https://doi.org/10.5281/zenodo.22999269). Changes are listed in [CHANGELOG.md](CHANGELOG.md).
 
 ## License
 
